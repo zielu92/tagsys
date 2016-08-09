@@ -1,0 +1,20 @@
+.tag {
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    background-color: #C10841;
+    margin-right: 7px;
+    margin-top: 5px;
+    line-height: 30px;
+    padding: 7px;
+    border-radius: 3px;
+    color: white;
+}
+.deleteTag, .deleteTagExsit{
+    border-radius: 3px;
+}
+.footer {
+    font-weight: bold;
+    padding-top:10px;
+    font-size:1.1em;
+}
