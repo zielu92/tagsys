@@ -1,4 +1,4 @@
-Simple tag system based on JS/jQuery, Ajax, PHP, MySQL, CSS; with autocomplete fature based on Bootstrap.
+Simple tag system based on JS/jQuery, Ajax, PHP, MySQL, CSS; with autocomplete feature based on Bootstrap.
 
 <b>creating database for out tags with columns: id, tag.</b>
 
