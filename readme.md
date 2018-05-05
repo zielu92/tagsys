@@ -21,6 +21,7 @@ We can configurate connection with DB in db.php file.
 Is it worth something for you? You can support me and send some btc for coffee :) 14Qaw1shp8ccg2n5jxzHD1DSfyTkYoKNqe
 
 <b>screenshot</b>
+
 <img src="http://i0.wp.com/mzielinski.pl/wp-content/uploads/2016/07/Zrzut-ekranu-2016-07-18-o-17.43.32.png?w=682">
 
 Polish version: http://mzielinski.pl/tag-system-jquery-ajax-php-mysql/ 
